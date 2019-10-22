@@ -9,7 +9,7 @@ p subtraction
 end
 
 def division(num1, num2)
-division = num1 \ num2
+division = num1 / num2
 p division
 end
 
