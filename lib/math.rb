@@ -22,7 +22,7 @@ def modulo(num1, num2)
 modulo = num1 % num2
 p modulo
 end
-
+learn submit
 def square_root(num)
 square_root = Math.sqrt(num)
 p square_root
